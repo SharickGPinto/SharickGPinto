@@ -1,0 +1,99 @@
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 870 50'
+    style='background-color: #000000;'
+    width='870px' height='50px'>
+
+    <style>
+    @font-face {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 500;
+        font-display: fallback;
+        src: url(data:font/truetype;base64,AAEAAAAQAQAABAAAR0RFRgB+AJYAAAGAAAAAKEdQT1M6nzDsAAAJDAAACFhHU1VCwQ2x+gAABPAAAAGYT1MvMoLGfE4AAAIMAAAAYFNUQVR5kmqBAAABqAAAACpjbWFwRRZGjQAAAvwAAADYZ2FzcAAAABAAAAEUAAAACGdseWYCRZiQAAARZAAAGxJoZWFkGX0ETAAAAdQAAAA2aGhlYQhhAvMAAAFcAAAAJGhtdHiPGA3BAAAD1AAAARxsb2NhAyYKIgAAAmwAAACQbWF4cABZAPEAAAEcAAAAIG5hbWU1uVkNAAAGiAAAAoJwb3N0/58AMgAAATwAAAAgcHJlcGgGjIUAAAEMAAAAB7gB/4WwBI0AAAEAAf//AA8AAQAAAEcAbwAHAIAABgABAAAAAAAAAAAAAAAAAAQAAQADAAAAAAAA/5wAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAPo/wYAAAVT/03+UgUpAAEAAAAAAAAAAAAAAAAAAABHAAEAAAAMAAAAAAAAAAIABAABABkAAQAbABwAAQAeAC0AAQAuADIAAgABAAEACAABAAAAFAABAAAAHAACd2dodAEAAAAAAgABAAAAAAEDAfQAAAAAAAEAAAADAYmBGeK7Xw889QADA+gAAAAA2S1fzgAAAADcwF6J/03/CwUpBH4AAAAGAAIAAAAAAAAABAIvAfQABQAAAooCWAAAAEsCigJYAAABXgAyAS4AAAAAAAAAAAAAAACgAAD/QAAgWwAAAAAAAAAATk9ORQDAACAgJgPo/wYAAASfAS8gAAGTAAAAAAH3ArwAAAAgAAMAAAA1AGwAtgD5ATABXgGtAeEB+QInAkgCiAK8AvIDSQNuA7gEAQRLBIoE1AUZBVIFrwXrBfYGDgYZBiQGSAaABpgG8wcuB2AHqgf0CCUIewi0CN8JDglVCZMJ4AoTCh8KMwpDClMKXwpfCnkKpArSCxILIgtOC6ELuQvRC/8MLQw5DEUMcQydDQ8NQA1xDYkAAAACAAAAAwAAABQAAwABAAAAFAAEAMQAAAAoACAABAAIACEAJgApAC4APAA/AEMASgBOAFAAVABXAGkAagB6IBQgGSAdICb//wAAACAAJgAoACwAOgA+AEEARQBMAFAAUwBXAGEAagBrIBQgGSAcICb//wAAAB0AFQAAAAAAAP/A/7//vv+9/7v/uf+w/7L/s+Ao4CngI+ASAAEAKAAAAAAAJgAqAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMAOQA1ADsANAA2ADcARQBEADoCSAAoAoQAFgKNAFgChQAtAjoAWAI1AFgCtwAtAtAAWAEDAFgCNQA6Ah4AWAM4AFgC2gBYAlcAWAI+ACYCYwAhA78AGgJmAC4CZgBKAgcALgJmAC4CPQAuAYIAHQJ1AC4CPgBKAN0APgDdAEcA3QA+ARD/7AD8/+wCIwBSAPMAUgOUAEoCSABKAmMALgJmAEoCZgAuAZEASgHaACQBawARAj8ASgIcACIC9QAiAeUAHAI/AEoB4QAoAwMAHQPgAB0D9gAdAl8AHQJ1AB0BEwAAAMwANgDdACQA2AA8AOcANAJFADYA1QA7AfMAKwGIADcDVgA3AXAALQFwABcBgQAcAYEAHQDqACIA3QAdArEAHgIQADwCDAAeAAAA) format('truetype');
+    }
+    </style>
+
+   <path id='path0'>
+        <animate id='d0' attributeName='d' begin='0s;d9.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path0'>
+            🛠️ De reparar dispositivos a construir software: mismo enfoque, más impacto.
+        </textPath>
+    </text>
+
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path1'>
+            📚 Aprendo construyendo: Python, HTML, CSS, JavaScript, MySQL y Mongo.
+        </textPath>
+    </text>
+
+
+    <path id='path2'>
+        <animate id='d2' attributeName='d' begin='d1.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path2'>
+            🧠 Scrum + Git: organizo el caos para que el código llegue a producción.
+        </textPath>
+    </text>
+
+
+    <path id='path3'>
+        <animate id='d3' attributeName='d' begin='d2.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path3'>
+            🗄️ MySQL o Mongo, no importa: los datos mandan, la vista obedece.
+        </textPath>
+    </text>
+
+    <path id='path4'>
+        <animate id='d4' attributeName='d' begin='d3.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path4'>
+            🎨 Figma para pensar la interfaz, código para hacerla realidad.
+        </textPath>
+    </text>
+
+
+    <path id='path5'>
+        <animate id='d5' attributeName='d' begin='d4.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path5'>
+            🚗 Metas claras, commits constantes.
+        </textPath>
+    </text>
+
+
+    <path id='path6'>
+        <animate id='d6' attributeName='d' begin='d5.end' dur='3200ms' fill='remove'
+            values='m0,25 h0 ; m0,25 h870 ; m0,25 h870 ; m0,25 h0' keyTimes='0;0.65;0.85;1' />
+    </path>
+    <text font-family='"Quicksand", monospace' fill='#FFFFFF' font-size='14'
+        dominant-baseline='middle' x='0%' text-anchor='start' letter-spacing='2px'>
+        <textPath xlink:href='#path6'>
+            ⚡ “No perfecto, pero real.” – SPinto
+        </textPath>
+    </text>
+
+</svg>

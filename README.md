@@ -1,86 +1,99 @@
-<!-- Header -->
-<h1 align="center">👋 Hola, soy SharickGPinto</h1>
-<h3 align="center">Desarrollador en formación </h3>
+<h1 align="center">Hi! I'm Sharick G. Pinto</h1>
 
-<p align="center">
-  <a href="![](https://komarev.com/ghpvc/?username=your-github-username&color=green)">
-    <img src="https://komarev.com/ghpvc/?username=SharickGPinto&label=Visitas&color=blueviolet" alt="visitas en el perfil" />
+<div align="center">
+  <p>Software Developer • Learning by doing</p>
+</div>
+
+<h4 align="center">
+  <img src="./profile-3d-contrib/frases.svg" alt="3D frases" />
+</h4>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SharickGPinto&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=000000" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SharickGPinto&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" height="27" width="127"/>
+</div>
+
+>[!NOTE]
+>**I'm open to receiving offers for jobs**.
+
+<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pinto-rodriguez-2784ab353/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="27" width="50"/>
   </a>
-</p>
+</div>
 
----
-
-## 🏆 Trofeos
-<!-- Recurso: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?SharickGPinto=ryo-ma&theme=dark_lover/>
-</p>
-
----
-
-## 🧊 Actividad 3D
-<!-- Recurso: https://github.com/yoshi389111/github-profile-3d-contrib -->
-<!-- Esto muestra el SVG generado por la acción. Si configuras el repo como en el README del proyecto, solo apuntas a tu archivo -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d profile contributions" />
-</p>
-
----
-
-## 👤 Sobre mí
-- 🔁 Manejo de **(Scrum)** para organizar el trabajo.
-- 🐍 Trabajo con **Python** para scripts y ejercicios.
-- 🌐 Desarrollo básico con **HTML, CSS y JavaScript**.
-- 🗄️ Manejo de bases de datos: **MySQL** y **MongoDB**.
-- 🧪 Me gusta versionar todo con **Git/GitHub**.
-- 📚 Sigo aprendiendo y subiendo proyectos prácticos.
-
----
-
-## 🛠 Tecnologías
-<p>
-  <img src="https://img.shields.io/badge/Scrum-46a2f1?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 📂 Qué encontrarás aquí
-- Ejercicios y proyectos en **Python**.
-- Prácticas de **HTML/CSS/JS**.
-- Modelos y pruebas con **MySQL/MongoDB**.
-- Repos con ejemplos de **Git** y flujo de trabajo.
-- Cosas que voy subiendo mientras estudio 👀
-
----
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharickGPinto
-&show_icons=true&theme=tokyonight" alt="stats" />
+  <a href="mailto:pinto702rodri@gmail.com"><i><tt><b>pinto702rodri@gmail.com</b></tt></i></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharickGPinto
-&layout=compact&theme=tokyonight" alt="top langs" />
+ <b><code>+57 3187117103</code></b>
 </p>
 
----
+>[!IMPORTANT]
+>You can contact me more easily by <i>LinkedIn or email</i>.
 
-## 📫 Contacto
-- 📧 correo: tu-correo@example.com
-- 💼 (opcional) LinkedIn / portafolio
+<h3 align="left">Skills:</h3>
 
----
+<table align="center" cellpadding="10">  
+  <tr>  
+    <th align="left">🌐 Front-End</th>  
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    </td>  
+  </tr>  
+  <tr>  
+    <th align="left">💻 Back-End / Logic</th>  
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>  
+  </tr>  
+  <tr>  
+    <th align="left">💾 Databases</th>  
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>  
+  </tr>
+  <tr>
+    <th align="left">🧠 Methodologies & VCS</th>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left">🎨 Design</th>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>  
 
-<!-- Nota para ti:
-1. Crea un repo llamado EXACTAMENTE como tu usuario: TU-USUARIO
-2. Mete este README.md ahí.
-3. Para que el 3D se vea, sigue las instrucciones del repo de yoshi389111 (es una GitHub Action que genera el SVG).
--->
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="Github Stats"/>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=flat&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Github Trophies"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SharickGPinto">
+    <img src="./profile-3d-contrib/profile-night-view.svg" alt="Github Contrib" width="900">
+  </a>
+</div>
