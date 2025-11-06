@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hola, soy SharickGPinto</h1>
-<h3 align="center">Desarrollador en formación | Python & Web | Git & Scrum</h3>
+<h3 align="center">Desarrollador en formación </h3>
 
 <p align="center">
   <a href="![](https://komarev.com/ghpvc/?username=your-github-username&color=green)">
@@ -13,7 +13,7 @@
 ## 🏆 Trofeos
 <!-- Recurso: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=dracula&no-frame=true&margin-w=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?SharickGPinto=ryo-ma&theme=dark_lover/>
 </p>
 
 ---
@@ -63,10 +63,12 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharickGPinto
+&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharickGPinto
+&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
