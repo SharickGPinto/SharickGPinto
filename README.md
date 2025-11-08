@@ -78,15 +78,25 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=367BF0&text_color=c9d1d9&icon_color=9B59B6" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=9B59B6&text_color=c9d1d9&icon_color=9B59B6&ring_color=367BF0&border_radius=7" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=flat&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&title_color=367BF0&text_color=9B59B6" alt="GitHub Trophies"/>
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=algolia&title_color=9B59B6&text_color=c9d1d9&margin-w=10&margin-h=15" 
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" width="900" />
+  <img 
+    src="./profile-3d-contrib/profile-night-view.svg" 
+    alt="3D GitHub Contribution Graph" 
+    width="900"
+  />
 </p>
