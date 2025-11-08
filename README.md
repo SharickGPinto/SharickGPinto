@@ -1,99 +1,92 @@
-<h1 align="center">Hi! I'm Sharick G. Pinto</h1>
+<h1 align="center" style="color:#367BF0;">Hi! I'm Sharick G. Pinto</h1>
 
-<div align="center">
-  <p>Software Developer • Learning by doing</p>
-</div>
+<p align="center" style="color:#9B59B6;">Software Developer • Learning by doing</p>
 
-<h4 align="center">
-  <img src="./profile-3d-contrib/frases.svg" alt="3D frases" />
-</h4>
+<p align="center">
+  <img src="./profile-3d-contrib/frases.svg" alt="3D frases SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SharickGPinto&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=000000" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SharickGPinto&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=1a1a2e" alt="GitHub Streak Stats"/>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SharickGPinto&label=Profile%20Views&color=367BF0&style=flat" alt="Profile Views" height="27" width="127"/>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SharickGPinto&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" height="27" width="127"/>
-</div>
+> 💼 **I'm open to receiving offers for jobs**
 
->[!NOTE]
->**I'm open to receiving offers for jobs**.
+---
 
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/pinto-rodriguez-2784ab353/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="27" width="50"/>
+### 📬 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pinto-rodriguez-2784ab353/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-</div>
-
-<p align="center">
-  <a href="mailto:pinto702rodri@gmail.com"><i><tt><b>pinto702rodri@gmail.com</b></tt></i></a>
-</p>
-<p align="center">
- <b><code>+57 3187117103</code></b>
 </p>
 
->[!IMPORTANT]
->You can contact me more easily by <i>LinkedIn or email</i>.
+<p align="center">
+  📧 <a href="mailto:pinto702rodri@gmail.com"><b>pinto702rodri@gmail.com</b></a><br>
+  📱 <b style="color:#9B59B6;">+57 3187117103</b>
+</p>
 
-<h3 align="left">Skills:</h3>
+> 📣 **You can contact me more easily via LinkedIn or Email.**
 
-<table align="center" cellpadding="10">  
-  <tr>  
-    <th align="left">🌐 Front-End</th>  
+---
+
+### 🧠 Skills
+
+<table align="center" cellpadding="10">
+  <tr>
+    <th align="left">🌐 Front-End</th>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-    </td>  
-  </tr>  
-  <tr>  
-    <th align="left">💻 Back-End / Logic</th>  
+      <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=367BF0" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=367BF0" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=367BF0" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left">💻 Back-End / Logic</th>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </td>  
-  </tr>  
-  <tr>  
-    <th align="left">💾 Databases</th>  
+      <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=9B59B6" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <th align="left">💾 Databases</th>
     <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>  
+      <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=367BF0" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=9B59B6" alt="MongoDB" />
+    </td>
   </tr>
   <tr>
     <th align="left">🧠 Methodologies & VCS</th>
     <td align="center">
-      <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
-      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge&logo=scrumalliance&logoColor=367BF0" alt="Scrum" />
+      <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9B59B6" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=367BF0" alt="GitHub" />
     </td>
   </tr>
   <tr>
     <th align="left">🎨 Design</th>
     <td align="center">
-      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=9B59B6" alt="Figma" />
     </td>
   </tr>
-</table>  
+</table>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="Github Stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=367BF0&text_color=c9d1d9&icon_color=9B59B6" alt="GitHub Stats"/>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=flat&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Github Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=flat&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&title_color=367BF0&text_color=9B59B6" alt="GitHub Trophies"/>
   </a>
-</div>
+</p>
 
-<div align="center">
-  <a href="https://github.com/SharickGPinto">
-    <img src="./profile-3d-contrib/profile-night-view.svg" alt="Github Contrib" width="900">
-  </a>
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="900" />
+</p>
