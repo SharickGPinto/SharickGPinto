@@ -1,35 +1,34 @@
-<h1 align="center" style="color:#367BF0;">Hi! I'm Sharick G. Pinto</h1>
+<div align="center">
 
-<p align="center" style="color:#9B59B6;">Software Developer • Learning by doing</p>
+# Hi! I'm Sharick G. Pinto
 
-<p align="center">
-  <img src="./profile-3d-contrib/frases.svg" alt="3D frases SVG" />
-</p>
+**Software Developer • Learning by doing**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SharickGPinto&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=1a1a2e" alt="GitHub Streak Stats"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=SharickGPinto&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&background=1a1a2e&ring=9B59B6&fire=367BF0&currStreakLabel=9B59B6)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SharickGPinto&label=Profile%20Views&color=367BF0&style=flat" alt="Profile Views" height="27" width="127"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=SharickGPinto&label=Profile%20Views&color=367BF0&style=flat)
 
-> 💼 **I'm open to receiving offers for jobs**
+</div>
+
+## 💻 Desarrollador Full-Stack Junior
+
+Soy Sharick G. Pinto. Descubrí la programación y desde entonces la convertí en mi camino profesional. Abordo cada proyecto con rigor, atención al detalle y una mentalidad de mejora continua. Disfruto colaborar, proponer ideas creativas y construir soluciones en equipo.
+
+💼 Abierto a nuevas oportunidades y colaboraciones
 
 ---
 
 ### 📬 Connect with me:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pinto-rodriguez-2784ab353/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  📧 <a href="mailto:pinto702rodri@gmail.com"><b>pinto702rodri@gmail.com</b></a><br>
-  📱 <b style="color:#9B59B6;">+57 3187117103</b>
-</p>
+<a href="https://www.linkedin.com/in/pinto-rodriguez-2784ab353/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+📧 **pinto702rodri@gmail.com** • 📱 **+57 3187117103**
+
+</div>
 
 > 📣 **You can contact me more easily via LinkedIn or Email.**
 
@@ -37,9 +36,9 @@
 
 ### 🧠 Skills
 
-<table align="center" cellpadding="10">
+<table align="center">
   <tr>
-    <th align="left">🌐 Front-End</th>
+    <td align="center" width="200"><b>🌐 Front-End</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=367BF0" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=367BF0" alt="CSS3" />
@@ -47,20 +46,20 @@
     </td>
   </tr>
   <tr>
-    <th align="left">💻 Back-End / Logic</th>
+    <td align="center"><b>💻 Back-End / Logic</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=9B59B6" alt="Python" />
     </td>
   </tr>
   <tr>
-    <th align="left">💾 Databases</th>
+    <td align="center"><b>💾 Databases</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=367BF0" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=9B59B6" alt="MongoDB" />
     </td>
   </tr>
   <tr>
-    <th align="left">🧠 Methodologies & VCS</th>
+    <td align="center"><b>🧠 Methodologies & VCS</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Scrum-1a1a2e?style=for-the-badge&logo=scrumalliance&logoColor=367BF0" alt="Scrum" />
       <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=9B59B6" alt="Git" />
@@ -68,7 +67,7 @@
     </td>
   </tr>
   <tr>
-    <th align="left">🎨 Design</th>
+    <td align="center"><b>🎨 Design</b></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=9B59B6" alt="Figma" />
     </td>
@@ -77,26 +76,19 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=9B59B6&text_color=c9d1d9&icon_color=9B59B6&ring_color=367BF0&border_radius=7" 
-    alt="GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=algolia&title_color=9B59B6&text_color=c9d1d9&margin-w=10&margin-h=15" 
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="./profile-3d-contrib/profile-night-view.svg" 
-    alt="3D GitHub Contribution Graph" 
-    width="900"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharickGPinto&show_icons=true&theme=transparent&title_color=9B59B6&text_color=c9d1d9&icon_color=9B59B6&bg_color=00000000&hide_border=true)
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SharickGPinto&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)
+
+### 📈 3D Contribution Graph
+
+![3D Contribution](./profile-3d-contrib/profile-night-view.svg)
+
+
+
